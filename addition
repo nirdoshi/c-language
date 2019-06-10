@@ -1,0 +1,26 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+    int a,b,total;
+
+    printf("enter 1st a number = ");
+    scanf("%d",&a);
+
+    printf("enter 2nd number = ");
+    scanf("%d",&b);
+
+    total=a+b;
+
+    printf("total = %d",total);
+
+
+}
+
+
+output
+
+enter 1st a number = 1
+enter 2st a number = 2
+ 
+total = 3 
